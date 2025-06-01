@@ -1,4 +1,4 @@
-# quiz_prokit
+# LMS Mobile App
 
 A new Flutter project.
 
